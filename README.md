@@ -26,7 +26,7 @@ Login Page             |  Home Page
 ```
 - Logic Test (Test Bootcamp 2/logic_test/)
 - Assets (assets/)
-- Use Router (lib/routers/route.dart)
+- Use Router (lib/routes/route.dart)
 - Use Theme (lib/theme.dart)
 - Use Auth (lib/utils/authentication.dart)
 - Use Widget (lib/apps/widget/)
