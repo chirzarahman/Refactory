@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243279534222",
+    "project_id": "refactory-skill-test-ccf85",
+    "storage_bucket": "refactory-skill-test-ccf85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243279534222:android:74aa6df75cf709db1f91df",
+        "android_client_info": {
+          "package_name": "com.example.refactory_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243279534222-nc7p1b9ot8nv7i3tljt6fih6c9b82mr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.refactory_test",
+            "certificate_hash": "5741b5333e37f5a95a90dd535e34312e92f34ccb"
+          }
+        },
+        {
+          "client_id": "243279534222-kvhma17hdsru4gfps4ofiuu5vij0sbau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-pzhbly6ErBTd-I2rJuWeiUkRx1sR48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243279534222-kvhma17hdsru4gfps4ofiuu5vij0sbau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
