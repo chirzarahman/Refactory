@@ -17,8 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Preview App
 
-<img src="assets/preview.jpg" width="250" height="400">
-<img src="assets/preview2.jpg" width="250" height="400">
+Login Page             |  Home Page
+:-------------------------:|:-------------------------:
+<img src="assets/preview.jpg" width="250" height="400">  |  <img src="assets/preview2.jpg" width="250" height="400">
+
 
 #### File placement:
 ```
